@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+#s1{
+    display: flex;
+}
+#d1{
+    display: flex;
+}
+#d2{
+    margin-left: 15%;
+}
+
+#s2{
+    display: flex;
+    color: gray;
+    border:2px solid gray;
+    margin-left: 400px;
+    width:500px;
+    height: 40px;
+    justify-content: space-between;
+    font-size: large;
+
+
+}
+#search{
+    border:2px solid gray;
+    width:45px;
+    align-content: center;
+
+}
+#mic{
+    margin-left: 10px;
+    align-items: center;
+}
+#top{
+    display: flex; 
+    padding-bottom: 40px;   
+}
+#t2{
+    margin-left: 20px;    
+}
+#a{
+color:white;
+}
